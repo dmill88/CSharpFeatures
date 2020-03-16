@@ -36,7 +36,7 @@ namespace CSharp7
         { 
             get => _nickname; 
             set => _nickname = value ??
-        throw new ArgumentNullException(paramName: nameof(value), message: "Nickname cannot be null");
+            throw new ArgumentNullException(paramName: nameof(value), message: "Nickname cannot be null");
         }
 
     }
