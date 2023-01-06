@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29806.167
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp6", "CSharp6\CSharp6.csproj", "{46792C09-3B51-4679-AB8B-9522B71D9C51}"
 EndProject
@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp7", "CSharp7\CSharp7.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp8", "CSharp8\CSharp8.csproj", "{FE7B77CB-CE47-4376-A6A3-699FBB456FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8NonNullRef", "CSharp8NonNullRef\CSharp8NonNullRef.csproj", "{DACC5C2F-1530-4FE3-B323-FC5AF1B38F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp8NonNullRef", "CSharp8NonNullRef\CSharp8NonNullRef.csproj", "{DACC5C2F-1530-4FE3-B323-FC5AF1B38F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp9", "CSharp9\CSharp9.csproj", "{7420B184-DAA4-4CEE-96AC-C80E3F05D122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DACC5C2F-1530-4FE3-B323-FC5AF1B38F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DACC5C2F-1530-4FE3-B323-FC5AF1B38F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DACC5C2F-1530-4FE3-B323-FC5AF1B38F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7420B184-DAA4-4CEE-96AC-C80E3F05D122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7420B184-DAA4-4CEE-96AC-C80E3F05D122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7420B184-DAA4-4CEE-96AC-C80E3F05D122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7420B184-DAA4-4CEE-96AC-C80E3F05D122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
